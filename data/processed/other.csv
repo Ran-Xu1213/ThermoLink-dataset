@@ -1,0 +1,29 @@
+record_id,reference_url,reference_id,protein,organism,uniprot_url,uniprot_id,residue_i,position_i,residue_j,position_j,thermostability
+DDB0034,https://pubmed.ncbi.nlm.nih.gov/26410456/,26410456,Baeyer｡VVilliger monooxygenases,Acinetobacter sp. NCIMB 9871.,https://www.uniprot.org/uniprotkb/Q9R2F5/entry,Q9R2F5,Y,411,A,463,No determined
+DDB0035,https://pubmed.ncbi.nlm.nih.gov/26410456/,26410456,Baeyer｡VVilliger monooxygenases,Acinetobacter sp. NCIMB 9871.,https://www.uniprot.org/uniprotkb/Q9R2F5/entry,Q9R2F5,N,290,A,293,No determined
+DDB0123,https://onlinelibrary.wiley.com/doi/10.1002/star.202000274,10.1002/star.202000274,Alpha-amylase,Geobacillus stearothermophilus,https://www.uniprot.org/uniprotkb/M9YQF0/entry,M9YQF0,S,34,A,94,No formed
+DDB0143,https://pubmed.ncbi.nlm.nih.gov/22095554/,22095554,Lipase B,Candida antarctica,https://www.uniprot.org/uniprotkb/P41365/entry,P41365,S,50,A,273,No determined
+DDB0144,https://pubmed.ncbi.nlm.nih.gov/22095554/,22095554,Lipase B,Candida antarctica,https://www.uniprot.org/uniprotkb/P41365/entry,P41365,S,239,D,252,No determined
+DDB0186,https://pubmed.ncbi.nlm.nih.gov/16686937/,16686937,Acetylcholinesterase,Drosophila melanogaster,https://www.uniprot.org/uniprotkb/P07140/entry,P07140,T,369,M,476,No expression
+DDB0225,https://pubmed.ncbi.nlm.nih.gov/36232620/,36232620,Phospholipase D,Moritella sp. JT01,https://www.uniprot.org/uniprotkb/A0A137SLD1/entry,A0A137SLD1,E,11,D,505,No expression
+DDB0226,https://pubmed.ncbi.nlm.nih.gov/36232620/,36232620,Phospholipase D,Moritella sp. JT01,https://www.uniprot.org/uniprotkb/A0A137SLD1/entry,A0A137SLD1,F,53,P,544,No expression
+DDB0228,https://pubmed.ncbi.nlm.nih.gov/36232620/,36232620,Phospholipase D,Moritella sp. JT01,https://www.uniprot.org/uniprotkb/A0A137SLD1/entry,A0A137SLD1,N,146,T,206,No signal during thermofluor measurements
+DDB0231,https://pubmed.ncbi.nlm.nih.gov/36232620/,36232620,Phospholipase D,Moritella sp. JT01,https://www.uniprot.org/uniprotkb/A0A137SLD1/entry,A0A137SLD1,G,242,K,371,No expression
+DDB0232,https://pubmed.ncbi.nlm.nih.gov/36232620/,36232620,Phospholipase D,Moritella sp. JT01,https://www.uniprot.org/uniprotkb/A0A137SLD1/entry,A0A137SLD1,D,249,G,402,No expression
+DDB0233,https://pubmed.ncbi.nlm.nih.gov/36232620/,36232620,Phospholipase D,Moritella sp. JT01,https://www.uniprot.org/uniprotkb/A0A137SLD1/entry,A0A137SLD1,K,385,A,421,No expression
+DDB0234,https://pubmed.ncbi.nlm.nih.gov/36232620/,36232620,Phospholipase D,Moritella sp. JT01,https://www.uniprot.org/uniprotkb/A0A137SLD1/entry,A0A137SLD1,A,387,A,425,No expression
+DDB0235,https://pubmed.ncbi.nlm.nih.gov/36232620/,36232620,Phospholipase D,Moritella sp. JT01,https://www.uniprot.org/uniprotkb/A0A137SLD1/entry,A0A137SLD1,A,423,V,460,No expression
+DDB0236,https://pubmed.ncbi.nlm.nih.gov/36232620/,36232620,Phospholipase D,Moritella sp. JT01,https://www.uniprot.org/uniprotkb/A0A137SLD1/entry,A0A137SLD1,I,426,N,480,No expression
+DDB0237,https://pubmed.ncbi.nlm.nih.gov/36232620/,36232620,Phospholipase D,Moritella sp. JT01,https://www.uniprot.org/uniprotkb/A0A137SLD1/entry,A0A137SLD1,S,450,V,552,No signal during thermofluor measurements
+DDB0239,https://pubmed.ncbi.nlm.nih.gov/35926674/,35926674,Methylaspartate ammonia-lyase,Escherichia coli O157:H7,https://www.ncbi.nlm.nih.gov/protein/1976643085,QRI41063.1,Q,5,I,58,Poor solubility
+DDB0242,https://pubmed.ncbi.nlm.nih.gov/35926674/,35926674,Methylaspartate ammonia-lyase,Escherichia coli O157:H7,https://www.ncbi.nlm.nih.gov/protein/1976643085,QRI41063.1,V,53,C,69,Poor solubility
+DDB0244,https://pubmed.ncbi.nlm.nih.gov/35111741/,35111741,Lytic polysaccharide monooxygenases,Cellvibrio japonicus,https://www.uniprot.org/uniprotkb/B3PJ79/entry,B3PJ79,D,59,R,121,No expression
+DDB0267,https://pubs.acs.org/doi/10.1021/acscatal.1c01204,10.1021/acscatal.1c01204,polyethylene terephthalate Hydrolase,Synthetic construct,https://www.uniprot.org/uniprotkb/C3RYL0/entry,C3RYL0,T,64,T,86,No expression
+DDB0312,http://chinafoodj.ijournals.cn/ch/reader/create_pdf.aspx?file_no=20220414008&flag=1&journal_id=spzljcxb,20220414008&flag=1&journal_id=spzljcxb,ZEN-JJM,Bionectria ochroleuca,https://www.uniprot.org/uniprotkb/G9FTK5/entry,G9FTK5,D,57,S,64,No activity
+DDB0313,http://chinafoodj.ijournals.cn/ch/reader/create_pdf.aspx?file_no=20220414008&flag=1&journal_id=spzljcxb,20220414008&flag=1&journal_id=spzljcxb,ZEN-JJM,Bionectria ochroleuca,https://www.uniprot.org/uniprotkb/G9FTK5/entry,G9FTK5,G,12,P,68,No activity
+DDB0314,http://chinafoodj.ijournals.cn/ch/reader/create_pdf.aspx?file_no=20220414008&flag=1&journal_id=spzljcxb,20220414008&flag=1&journal_id=spzljcxb,ZEN-JJM,Bionectria ochroleuca,https://www.uniprot.org/uniprotkb/G9FTK5/entry,G9FTK5,V,108,A,122,No activity
+DDB0365,https://pubmed.ncbi.nlm.nih.gov/17479216/,17479216,Dehydrogenase,Candida boidinii,https://www.uniprot.org/uniprotkb/O13437/entry,O13437,V,88,V,112,No activity
+DDB0376,https://doi.org/10.1093/protein/gzx014,10.1093/protein/gzx014,Cyclodextrin glycosyltransferase,Paenibacillus barengoltzii,https://www.uniprot.org/uniprotkb/Q9RJY2 /entry,Q9RJY2,P,41,T,126,No expression
+DDB0379,https://doi.org/10.1093/protein/gzx014,10.1093/protein/gzx014,Cyclodextrin glycosyltransferase,Paenibacillus barengoltzii,https://www.uniprot.org/uniprotkb/Q9RJY2 /entry,Q9RJY2,P,41,S,223,No expression
+DDB0385,https://doi.org/10.1093/protein/gzx014,10.1093/protein/gzx014,Cyclodextrin glycosyltransferase,Paenibacillus barengoltzii,https://www.uniprot.org/uniprotkb/Q9RJY2 /entry,Q9RJY2,P,61,C,66,No expression
+DDB0390,https://pubmed.ncbi.nlm.nih.gov/23056295/,23056295,Lipase,Rhizopus chinensis,https://www.uniprot.org/uniprotkb/A3FM73 /entry,A3FM73,N,84,G,266,Low activity

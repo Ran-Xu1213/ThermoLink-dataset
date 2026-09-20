@@ -1,0 +1,202 @@
+{
+  "source_sha256": "8f8fbb5b4f73035292e6a7b91918647bdb1a52ffd93f67978745fc4b27153ec7",
+  "sheets": {
+    "All datasets": {
+      "csv": "all_datasets.csv",
+      "records": 442,
+      "original_headers": [
+        "Index",
+        "Reference_ID",
+        "Reference",
+        "Protein",
+        "Organism",
+        "Uniprot ID_ID",
+        "Uniprot ID",
+        "AA",
+        "i",
+        "AA",
+        "j",
+        "Thermostability"
+      ],
+      "label_counts": {
+        "Decrease": 140,
+        "Increase": 244,
+        "Less 1": 8,
+        "Low activity": 1,
+        "No activity": 5,
+        "No change": 21,
+        "No determined": 4,
+        "No expression": 14,
+        "No formed": 1,
+        "No signal during thermofluor measurements": 2,
+        "Poor solubility": 2
+      },
+      "duplicate_record_ids": {},
+      "missing_counts": {
+        "record_id": 0,
+        "reference_url": 0,
+        "reference_id": 0,
+        "protein": 0,
+        "organism": 0,
+        "uniprot_url": 0,
+        "uniprot_id": 0,
+        "residue_i": 0,
+        "position_i": 0,
+        "residue_j": 0,
+        "position_j": 0,
+        "thermostability": 0
+      }
+    },
+    "Increase": {
+      "csv": "increase.csv",
+      "records": 217,
+      "original_headers": [
+        "Index",
+        "Reference_ID",
+        "Reference",
+        "Protein",
+        "Organism",
+        "Uniprot ID_ID",
+        "Uniprot ID",
+        "AA",
+        "i",
+        "AA",
+        "j",
+        "Thermostability"
+      ],
+      "label_counts": {
+        "Increase": 217
+      },
+      "duplicate_record_ids": {},
+      "missing_counts": {
+        "record_id": 0,
+        "reference_url": 0,
+        "reference_id": 0,
+        "protein": 0,
+        "organism": 0,
+        "uniprot_url": 0,
+        "uniprot_id": 0,
+        "residue_i": 0,
+        "position_i": 0,
+        "residue_j": 0,
+        "position_j": 0,
+        "thermostability": 0
+      }
+    },
+    "Decrease ": {
+      "csv": "decrease.csv",
+      "records": 136,
+      "original_headers": [
+        "Index",
+        "Reference_ID",
+        "Reference",
+        "Protein",
+        "Organism",
+        "Uniprot ID_ID",
+        "Uniprot ID",
+        "AA",
+        "i",
+        "AA",
+        "j",
+        "Thermostability"
+      ],
+      "label_counts": {
+        "Decrease": 136
+      },
+      "duplicate_record_ids": {},
+      "missing_counts": {
+        "record_id": 0,
+        "reference_url": 0,
+        "reference_id": 0,
+        "protein": 0,
+        "organism": 0,
+        "uniprot_url": 0,
+        "uniprot_id": 0,
+        "residue_i": 0,
+        "position_i": 0,
+        "residue_j": 0,
+        "position_j": 0,
+        "thermostability": 0
+      }
+    },
+    "No Change": {
+      "csv": "no_change.csv",
+      "records": 28,
+      "original_headers": [
+        "Index",
+        "Reference_ID",
+        "Reference",
+        "Protein",
+        "Organism",
+        "Uniprot ID_ID",
+        "Uniprot ID",
+        "AA",
+        "i",
+        "AA",
+        "j",
+        "Thermostability"
+      ],
+      "label_counts": {
+        "Less 1": 8,
+        "No change": 20
+      },
+      "duplicate_record_ids": {},
+      "missing_counts": {
+        "record_id": 0,
+        "reference_url": 0,
+        "reference_id": 0,
+        "protein": 0,
+        "organism": 0,
+        "uniprot_url": 0,
+        "uniprot_id": 0,
+        "residue_i": 0,
+        "position_i": 0,
+        "residue_j": 0,
+        "position_j": 0,
+        "thermostability": 0
+      }
+    },
+    "Other": {
+      "csv": "other.csv",
+      "records": 28,
+      "original_headers": [
+        "Index",
+        "Reference_ID",
+        "Reference",
+        "Protein",
+        "Organism",
+        "Uniprot ID_ID",
+        "Uniprot ID",
+        "AA",
+        "i",
+        "AA",
+        "j",
+        "Thermostability"
+      ],
+      "label_counts": {
+        "Low activity": 1,
+        "No activity": 4,
+        "No determined": 4,
+        "No expression": 14,
+        "No formed": 1,
+        "No signal during thermofluor measurements": 2,
+        "Poor solubility": 2
+      },
+      "duplicate_record_ids": {},
+      "missing_counts": {
+        "record_id": 0,
+        "reference_url": 0,
+        "reference_id": 0,
+        "protein": 0,
+        "organism": 0,
+        "uniprot_url": 0,
+        "uniprot_id": 0,
+        "residue_i": 0,
+        "position_i": 0,
+        "residue_j": 0,
+        "position_j": 0,
+        "thermostability": 0
+      }
+    }
+  }
+}

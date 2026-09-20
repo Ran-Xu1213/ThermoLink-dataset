@@ -1,0 +1,218 @@
+record_id,reference_url,reference_id,protein,organism,uniprot_url,uniprot_id,residue_i,position_i,residue_j,position_j,thermostability
+DDB0001,https://pubmed.ncbi.nlm.nih.gov/37110762/,37110762,Polyethylene terephthalate (PET) hydrolase,Burkholderiales bacterium,https://www.uniprot.org/uniprotkb/A0A1F4JXW8/entry,A0A1F4JXW8,N,364,D,418,Increase
+DDB0002,https://pubmed.ncbi.nlm.nih.gov/37110762/,37110762,Polyethylene terephthalate (PET) hydrolase,Burkholderiales bacterium,https://www.uniprot.org/uniprotkb/A0A1F4JXW8/entry,A0A1F4JXW8,A,209,R,283,Increase
+DDB0004,https://pubmed.ncbi.nlm.nih.gov/30396154/,30396154,Diisopropyl-fluorophosphatase,Loligo vulgaris,https://www.uniprot.org/uniprotkb/Q7SIG4/entry,Q7SIG4,V,24,C,76,Increase
+DDB0005,https://pubmed.ncbi.nlm.nih.gov/27395063/,27395063,Chitosanase,Bacillus ehimensis,https://www.uniprot.org/uniprotkb/O24825/entry,O24825,G,113,D,116,Increase
+DDB0006,https://pubmed.ncbi.nlm.nih.gov/27395063/,27395063,Chitosanase,Bacillus ehimensis,https://www.uniprot.org/uniprotkb/O24825/entry,O24825,A,207,L,286,Increase
+DDB0010,https://pubmed.ncbi.nlm.nih.gov/28338903/,28338903,Lytic polysaccharide monooxygenases,Streptomyces coelicolor,https://www.uniprot.org/uniprotkb/Q9RJY2 /entry,Q9RJY2,A,143,P,183,Increase
+DDB0011,https://pubmed.ncbi.nlm.nih.gov/28338903/,28338903,Lytic polysaccharide monooxygenases,Streptomyces coelicolor,https://www.uniprot.org/uniprotkb/Q9RJY2 /entry,Q9RJY2,S,73,D,112,Increase
+DDB0012,https://pubmed.ncbi.nlm.nih.gov/28338903/,28338903,Lytic polysaccharide monooxygenases,Streptomyces coelicolor,https://www.uniprot.org/uniprotkb/Q9RJY2 /entry,Q9RJY2,A,52,P,61,Increase
+DDB0013,https://pubmed.ncbi.nlm.nih.gov/28338903/,28338903,Lytic polysaccharide monooxygenases,Streptomyces coelicolor,https://www.uniprot.org/uniprotkb/Q9RJY2 /entry,Q9RJY2,S,73,D,112,Increase
+DDB0023,https://pubmed.ncbi.nlm.nih.gov/22750581/,22750581,Luciferase,Photinus pyralis,https://www.uniprot.org/uniprotkb/P08659/entry,P08659,A,296,A,326,Increase
+DDB0024,https://pubmed.ncbi.nlm.nih.gov/19155118/,19155118,Ribonuclease A,Bos taurus,https://www.uniprot.org/uniprotkb/P61823/entry,P61823,A,4,V,118,Increase
+DDB0025,https://pubmed.ncbi.nlm.nih.gov/19155118/,19155118,Ribonuclease A,Bos taurus,https://www.uniprot.org/uniprotkb/P61823/entry,P61823,V,43,R,85,Increase
+DDB0030,https://pubmed.ncbi.nlm.nih.gov/28639260/,28639260,(R)-selective amine transaminase,Aspergillus terreus,https://www.uniprot.org/uniprotkb/Q0C8G1/entry,Q0C8G1,R,131,D,134,Increase
+DDB0031,https://pubmed.ncbi.nlm.nih.gov/28639260/,28639260,(R)-selective amine transaminase,Aspergillus terreus,https://www.uniprot.org/uniprotkb/Q0C8G1/entry,Q0C8G1,M,150,M,280,Increase
+DDB0032,https://pubmed.ncbi.nlm.nih.gov/28639260/,28639260,(R)-selective amine transaminase,Aspergillus terreus,https://www.uniprot.org/uniprotkb/Q0C8G1/entry,Q0C8G1,N,25,A,28,Increase
+DDB0033,https://pubmed.ncbi.nlm.nih.gov/30132989/,30132989,Azoreductase,Halomonas elongata,https://www.uniprot.org/uniprotkb/A0A1W6D7D8/entry,A0A1W6D7D8,L,49,D,108,Increase
+DDB0036,https://pubmed.ncbi.nlm.nih.gov/26410456/,26410456,Baeyer｡VVilliger monooxygenases,Acinetobacter sp. NCIMB 9871.,https://www.uniprot.org/uniprotkb/Q9R2F5/entry,Q9R2F5,T,415,A,463,Increase
+DDB0037,https://pubmed.ncbi.nlm.nih.gov/3304420/,3304420,Dihydrofolate reductase,Escherichia coli (strain K12),https://www.uniprot.org/uniprotkb/P0ABQ4/entry,P0ABQ4,P,39,C,85,Increase
+DDB0038,https://pubmed.ncbi.nlm.nih.gov/33340163/,33340163,Cutinase,Saccharomonospora viridis AHK190,https://www.uniprot.org/uniprotkb/W0TJ64/entry,W0TJ64,D,250,E,296,Increase
+DDB0039,https://pubmed.ncbi.nlm.nih.gov/25739581/,25739581,"Limonene-1,2-epoxide hydrolase",Rhodococcus erythropolis,https://www.uniprot.org/uniprotkb/Q9ZAG3/entry,Q9ZAG3,G,89,S,91,Increase
+DDB0040,https://pubmed.ncbi.nlm.nih.gov/2108962/,2108962,subtilisin E,Saccharomyces cerevisiae,https://www.uniprot.org/uniprotkb/P25303/entry,P25303,G,61,S,98,Increase
+DDB0042,https://pubmed.ncbi.nlm.nih.gov/24212581/,24212581,Alkaline ｣\-amylase,Alkalimonas amylolytica,https://www.uniprot.org/uniprotkb/Q6WUB6/entry,Q6WUB6,P,35,G,426,Increase
+DDB0043,https://pubmed.ncbi.nlm.nih.gov/24212581/,24212581,Alkaline ｣\-amylase,Alkalimonas amylolytica,https://www.uniprot.org/uniprotkb/Q6WUB6/entry,Q6WUB6,G,116,Q,120,Increase
+DDB0044,https://pubmed.ncbi.nlm.nih.gov/24212581/,24212581,Alkaline ｣\-amylase,Alkalimonas amylolytica,https://www.uniprot.org/uniprotkb/Q6WUB6/entry,Q6WUB6,R,436,M,480,Increase
+DDB0049,https://pubmed.ncbi.nlm.nih.gov/9749918/,9749918,Glucoamylase,Aspergillus awamori,https://www.uniprot.org/uniprotkb/P69327/entry,P69327,N,20,A,27,Increase
+DDB0051,https://pubmed.ncbi.nlm.nih.gov/27966481/,27966481,Organophosphorus hydrolase,Brevundimonas diminuta,https://www.uniprot.org/uniprotkb/P0A434/entry,P0A434,T,128,E,153,Increase
+DDB0052,https://pubmed.ncbi.nlm.nih.gov/27966481/,27966481,Organophosphorus hydrolase,Brevundimonas diminuta,https://www.uniprot.org/uniprotkb/P0A434/entry,P0A434,A,204,T,234,Increase
+DDB0054,https://pubmed.ncbi.nlm.nih.gov/33220867/,33220867,Phytase,Bacillus licheniformis WHU,https://www.uniprot.org/uniprotkb/A0A976T365/entry,A0A976T365,G,197,A,358,Increase
+DDB0062,https://pubmed.ncbi.nlm.nih.gov/32732025/,32732025,Dextransucrase,Leuconostoc mesenteroides,https://www.uniprot.org/uniprotkb/Q2I2N5/entry,Q2I2N5,L,838,V,887,Increase
+DDB0063,https://pubmed.ncbi.nlm.nih.gov/32732025/,32732025,Dextransucrase,Leuconostoc mesenteroides,https://www.uniprot.org/uniprotkb/Q2I2N5/entry,Q2I2N5,A,948,A,1013,Increase
+DDB0066,https://pubmed.ncbi.nlm.nih.gov/31939086/,31939086,Amylopullulanase,Anoxybacillus sp. WB42,https://www.uniprot.org/uniprotkb/A0A286QJY9/entry,A0A286QJY9,T,245,A,326,Increase
+DDB0067,https://pubmed.ncbi.nlm.nih.gov/31939086/,31939086,Amylopullulanase,Anoxybacillus sp. WB42,https://www.uniprot.org/uniprotkb/A0A286QJY9/entry,A0A286QJY9,W,651,V,707,Increase
+DDB0079,https://pubmed.ncbi.nlm.nih.gov/30935060/,30935060,Endoglucanase,Talaromyces verruculosus,https://www.uniprot.org/uniprotkb/A0A1U7Q1U3/entry,A0A1U7Q1U3,S,127,A,165,Increase
+DDB0080,https://pubmed.ncbi.nlm.nih.gov/30935060/,30935060,Endoglucanase,Talaromyces verruculosus,https://www.uniprot.org/uniprotkb/A0A1U7Q1U3/entry,A0A1U7Q1U3,S,12,A,270,Increase
+DDB0081,https://pubmed.ncbi.nlm.nih.gov/30243381/,30243381,Catalase,Bacillus pumilus,https://www.uniprot.org/uniprotkb/A0A143G976/entry,A0A143G976,S,286,D,289,Increase
+DDB0082,https://pubmed.ncbi.nlm.nih.gov/25969986/,25969986,Type A feruloyl esterase,Aspergillus usamii,https://www.uniprot.org/uniprotkb/V5TEY2/entry,V5TEY2,A,126,N,152,Increase
+DDB0083,https://pubmed.ncbi.nlm.nih.gov/19148633/,19148633,"Cellulose 1,4-beta-cellobiosidase",Melanocarpus albomyces,https://www.uniprot.org/uniprotkb/Q8J0K6/entry,Q8J0K6,G,4,M,70,Increase
+DDB0084,https://pubmed.ncbi.nlm.nih.gov/19951999/,19951999,Cellobiohydrolase I,Rasamsonia emersonii,https://www.uniprot.org/uniprotkb/Q8TFL9/entry,Q8TFL9,N,54,P,191,Increase
+DDB0085,https://pubmed.ncbi.nlm.nih.gov/19951999/,19951999,Cellobiohydrolase I,Rasamsonia emersonii,https://www.uniprot.org/uniprotkb/Q8TFL9/entry,Q8TFL9,T,243,A,375,Increase
+DDB0086,https://pubmed.ncbi.nlm.nih.gov/19951999/,19951999,Cellobiohydrolase I,Rasamsonia emersonii,https://www.uniprot.org/uniprotkb/Q8TFL9/entry,Q8TFL9,G,4,A,72,Increase
+DDB0087,https://pubmed.ncbi.nlm.nih.gov/34576170/,34576170,D-psicose 3-epimerase,Enterocloster bolteae ATCC BAA-613,https://www.uniprot.org/uniprotkb/A8RG8/entry,A8RG8,D,90,A,93,Increase
+DDB0088,https://pubmed.ncbi.nlm.nih.gov/34576170/,34576170,D-psicose 3-epimerase,Enterocloster bolteae ATCC BAA-613,https://www.uniprot.org/uniprotkb/A8RG8/entry,A8RG8,C,175,A,209,Increase
+DDB0089,https://pubmed.ncbi.nlm.nih.gov/34576170/,34576170,D-psicose 3-epimerase,Enterocloster bolteae ATCC BAA-613,https://www.uniprot.org/uniprotkb/A8RG8/entry,A8RG8,A,207,A,243,Increase
+DDB0094,https://pubmed.ncbi.nlm.nih.gov/35272012/,35272012,Transglutaminase,Streptomyces mobaraensis,https://www.ncbi.nlm.nih.gov/protein/2315201037,UXY92051.1,E,139,G,143,Increase
+DDB0095,https://pubmed.ncbi.nlm.nih.gov/33738551/,33738551,Transglutaminase,Streptomyces mobaraensis,https://www.uniprot.org/uniprotkb/P81453/entry,P81453,T,7,E,58,Increase
+DDB0096,https://pubmed.ncbi.nlm.nih.gov/33738551/,33738551,Transglutaminase,Streptomyces mobaraensis,https://www.uniprot.org/uniprotkb/P81453/entry,P81453,D,46,S,318,Increase
+DDB0097,https://pubmed.ncbi.nlm.nih.gov/33738551/,33738551,Transglutaminase,Streptomyces mobaraensis,https://www.uniprot.org/uniprotkb/P81453/entry,P81453,E,93,V,112,Increase
+DDB0098,https://pubmed.ncbi.nlm.nih.gov/33738551/,33738551,Transglutaminase,Streptomyces mobaraensis,https://www.uniprot.org/uniprotkb/P81453/entry,P81453,A,106,D,213,Increase
+DDB0099,https://pubmed.ncbi.nlm.nih.gov/34043362/,34043362,Endo-polygalacturonase,Talaromyces leycettanus JCM 12802,https://www.uniprot.org/uniprotkb/A0A6M9BP13/entry,A0A6M9BP13,T,316,G,344,Increase
+DDB0100,https://pubmed.ncbi.nlm.nih.gov/34043362/,34043362,Endo-polygalacturonase,Talaromyces leycettanus JCM 12802,https://www.uniprot.org/uniprotkb/A0A6M9BP13/entry,A0A6M9BP13,N,253,G,282,Increase
+DDB0101,https://pubmed.ncbi.nlm.nih.gov/34043362/,34043362,Endo-polygalacturonase,Talaromyces leycettanus JCM 12802,https://www.uniprot.org/uniprotkb/A0A6M9BP13/entry,A0A6M9BP13,G,220,S,249,Increase
+DDB0102,https://pubmed.ncbi.nlm.nih.gov/34043362/,34043362,Endo-polygalacturonase,Talaromyces leycettanus JCM 12802,https://www.uniprot.org/uniprotkb/A0A6M9BP13/entry,A0A6M9BP13,I,99,S,140,Increase
+DDB0108,https://pubmed.ncbi.nlm.nih.gov/27100881/,27100881,"Mesophilic 1,3-1,4-｣]-Glucanase",Bacillus terquilensis,https://www.uniprot.org/uniprotkb/A0A1W6AKT2/entry,A0A1W6AKT2,P,102,N,125,Increase
+DDB0109,https://pubmed.ncbi.nlm.nih.gov/27100881/,27100881,"Mesophilic 1,3-1,5-｣]-Glucanase",Bacillus terquilensis,https://www.uniprot.org/uniprotkb/A0A1W6AKT2/entry,A0A1W6AKT2,N,31,T,187,Increase
+DDB0112,https://pubmed.ncbi.nlm.nih.gov/20593108/,20593108,Luciferase,firefly,https://www.uniprot.org/uniprotkb/P08659/entry,P08659,A,103,S,121,Increase
+DDB0113,https://pubmed.ncbi.nlm.nih.gov/20593108/,20593108,Luciferase,firefly,https://www.uniprot.org/uniprotkb/P08659/entry,P08659,A,296,A,326,Increase
+DDB0114,https://pubmed.ncbi.nlm.nih.gov/35729274/,35729274,Microbial transglutaminase,Streptomyces mobaraensis,https://www.uniprot.org/uniprotkb/M3C567/entry,M3C567,D,3,G,283,Increase
+DDB0115,https://pubmed.ncbi.nlm.nih.gov/35729274/,35729274,Microbial transglutaminase,Streptomyces mobaraensis,https://www.uniprot.org/uniprotkb/M3C567/entry,M3C567,T,7,E,58,Increase
+DDB0116,https://pubmed.ncbi.nlm.nih.gov/35729274/,35729274,Microbial transglutaminase,Streptomyces mobaraensis,https://www.uniprot.org/uniprotkb/M3C567/entry,M3C567,S,2,N,282,Increase
+DDB0117,https://pubmed.ncbi.nlm.nih.gov/35729274/,35729274,Microbial transglutaminase,Streptomyces mobaraensis,https://www.uniprot.org/uniprotkb/M3C567/entry,M3C567,S,2,G,283,Increase
+DDB0119,https://pubmed.ncbi.nlm.nih.gov/35563929/,35563929,"Glucan 1,4-alpha-maltotetraohydrolase",Pelomonas saccharophila,https://www.uniprot.org/uniprotkb/P22963/entry,P22963,A,211,S,214,Increase
+DDB0121,https://onlinelibrary.wiley.com/doi/10.1002/star.202000274,10.1002/star.202000274,Alpha-amylase,Geobacillus stearothermophilus,https://www.uniprot.org/uniprotkb/M9YQF0/entry,M9YQF0,A,27,A,90,Increase
+DDB0124,https://pubmed.ncbi.nlm.nih.gov/24315645/,24315645,"Endo-1,4-beta-xylanase",Dictyoglomus thermophilum,https://www.uniprot.org/uniprotkb/P77853/entry,P77853,T,1,T,27,Increase
+DDB0125,https://pubmed.ncbi.nlm.nih.gov/22425398/,22425398,"Endo-1,4-beta-xylanase",Thermomyces lanuginosus,https://www.uniprot.org/uniprotkb/O43097/entry,O43097,Q,1,Q,24,Increase
+DDB0126,https://pubmed.ncbi.nlm.nih.gov/36832954/,36832954,"Endo-1,4-beta-xylanase",Streptomyces rameus,https://www.uniprot.org/uniprotkb/K7UAM8/entry,K7UAM8,V,3,T,30,Increase
+DDB0127,https://pubmed.ncbi.nlm.nih.gov/36832954/,36832954,"Endo-1,4-beta-xylanase",Streptomyces rameus,https://www.uniprot.org/uniprotkb/K7UAM8/entry,K7UAM8,N,36,T,188,Increase
+DDB0128,https://pubmed.ncbi.nlm.nih.gov/17139507/,17139507,"Endo-1,4-beta-xylanase",Streptomyces olivaceoviridis,https://www.uniprot.org/uniprotkb/W8GKK9/entry,W8GKK9,S,109,N,153?,Increase
+DDB0129,https://pubmed.ncbi.nlm.nih.gov/30682487/,30682487,"Endo-1,4-beta-xylanase",Penicillium janthinellum,https://www.uniprot.org/uniprotkb/A0A5B8HC41/entry,A0A5B8HC41,S,39,S,186,Increase
+DDB0131,https://pubmed.ncbi.nlm.nih.gov/30682487/,30682487,"Endo-1,4-beta-xylanase",Penicillium janthinellum,https://www.uniprot.org/uniprotkb/A0A5B8HC41/entry,A0A5B8HC41,S,27,S,186,Increase
+DDB0132,https://pubmed.ncbi.nlm.nih.gov/30682487/,30682487,"Endo-1,4-beta-xylanase",Penicillium janthinellum,https://www.uniprot.org/uniprotkb/A0A5B8HC41/entry,A0A5B8HC41,T,2,T,29,Increase
+DDB0138,https://pubmed.ncbi.nlm.nih.gov/33166453/,33166453,"1,4-｣\-Glucan Branching Enzyme",Geobacillus thermoglucosidans STB02,https://www.uniprot.org/uniprotkb/A0A067NQH1/entry,A0A067NQH1,V,75,C,42,Increase
+DDB0139,https://pubmed.ncbi.nlm.nih.gov/33166453/,33166453,"1,4-｣\-Glucan Branching Enzyme",Geobacillus thermoglucosidans STB02,https://www.uniprot.org/uniprotkb/A0A067NQH1/entry,A0A067NQH1,Y,450,C,548,Increase
+DDB0140,https://pubmed.ncbi.nlm.nih.gov/33166453/,33166453,"1,4-｣\-Glucan Branching Enzyme",Geobacillus thermoglucosidans STB02,https://www.uniprot.org/uniprotkb/A0A067NQH1/entry,A0A067NQH1,T,77,C,42,Increase
+DDB0141,https://pubmed.ncbi.nlm.nih.gov/22095554/,22095554,Lipase B,Candida antarctica,https://www.uniprot.org/uniprotkb/P41365/entry,P41365,A,162,K,308,Increase
+DDB0142,https://pubmed.ncbi.nlm.nih.gov/22095554/,22095554,Lipase B,Candida antarctica,https://www.uniprot.org/uniprotkb/P41365/entry,P41365,N,169,F,304,Increase
+DDB0146,https://pubmed.ncbi.nlm.nih.gov/35559271/,35559271,Lipase,Rhizopus niveus,https://www.uniprot.org/uniprotkb/P61871/entry,P61871,E,190,E,238,Increase
+DDB0147,https://pubmed.ncbi.nlm.nih.gov/35559271/,35559271,Lipase,Rhizopus niveus,https://www.uniprot.org/uniprotkb/P61871/entry,P61871,F,196,G,220,Increase
+DDB0148,https://pubmed.ncbi.nlm.nih.gov/35559271/,35559271,Lipase,Rhizopus niveus,https://www.uniprot.org/uniprotkb/P61871/entry,P61871,V,141,A,151,Increase
+DDB0149,https://pubmed.ncbi.nlm.nih.gov/35559271/,35559271,Lipase,Rhizopus niveus,https://www.uniprot.org/uniprotkb/P61871/entry,P61871,A,106,F,185,Increase
+DDB0155,https://pubmed.ncbi.nlm.nih.gov/24867629/,24867629,Triacylglycerol lipase,Penicillium expansum,https://www.uniprot.org/uniprotkb/Q7LST4/entry,Q7LST4,V,248,T,251,Increase
+DDB0158,https://pubmed.ncbi.nlm.nih.gov/19533118/,19533118,Lipase,Rhizomucor miehei,https://www.uniprot.org/uniprotkb/P19515/entry,P19515,P,96,K,106,Increase
+DDB0159,https://pubmed.ncbi.nlm.nih.gov/33070231/,33070231,Lipase,Rhizopus chinensis,https://www.uniprot.org/uniprotkb/A3FM73/entry,A3FM73,F,223,G,247,Increase
+DDB0164,https://pubmed.ncbi.nlm.nih.gov/33070231/,33070231,Lipase,Rhizopus chinensis,https://www.uniprot.org/uniprotkb/A3FM73/entry,A3FM73,S,85,Q,145,Increase
+DDB0165,https://doi.org/10.1016/j.lwt.2022.113786,10.1016/j.lwt.2022.113786,Triacylglycerol lipase,Yarrowia lipolytica,https://www.uniprot.org/uniprotkb/Q9P8F7/entry,Q9P8F7,V,1,Q,242,Increase
+DDB0167,https://doi.org/10.1016/j.lwt.2022.113786,10.1016/j.lwt.2022.113786,Triacylglycerol lipase,Yarrowia lipolytica,https://www.uniprot.org/uniprotkb/Q9P8F7/entry,Q9P8F7,Y,2,N,210,Increase
+DDB0169,https://doi.org/10.1016/j.lwt.2022.113786,10.1016/j.lwt.2022.113786,Triacylglycerol lipase,Yarrowia lipolytica,https://www.uniprot.org/uniprotkb/Q9P8F7/entry,Q9P8F7,S,8,S,214,Increase
+DDB0170,https://doi.org/10.1016/j.lwt.2022.113786,10.1016/j.lwt.2022.113786,Triacylglycerol lipase,Yarrowia lipolytica,https://www.uniprot.org/uniprotkb/Q9P8F7/entry,Q9P8F7,S,14,V,216,Increase
+DDB0172,https://doi.org/10.1016/j.lwt.2022.113786,10.1016/j.lwt.2022.113786,Triacylglycerol lipase,Yarrowia lipolytica,https://www.uniprot.org/uniprotkb/Q9P8F7/entry,Q9P8F7,H,60,S,69,Increase
+DDB0173,https://doi.org/10.1016/j.lwt.2022.113786,10.1016/j.lwt.2022.113786,Triacylglycerol lipase,Yarrowia lipolytica,https://www.uniprot.org/uniprotkb/Q9P8F7/entry,Q9P8F7,A,103,N,127,Increase
+DDB0174,https://doi.org/10.1016/j.lwt.2022.113786,10.1016/j.lwt.2022.113786,Triacylglycerol lipase,Yarrowia lipolytica,https://www.uniprot.org/uniprotkb/Q9P8F7/entry,Q9P8F7,L,105,L,124,Increase
+DDB0175,https://doi.org/10.1016/j.lwt.2022.113786,10.1016/j.lwt.2022.113786,Triacylglycerol lipase,Yarrowia lipolytica,https://www.uniprot.org/uniprotkb/Q9P8F7/entry,Q9P8F7,A,118,V,177,Increase
+DDB0176,https://doi.org/10.1016/j.lwt.2022.113786,10.1016/j.lwt.2022.113786,Triacylglycerol lipase,Yarrowia lipolytica,https://www.uniprot.org/uniprotkb/Q9P8F7/entry,Q9P8F7,D,122,G,196,Increase
+DDB0177,https://doi.org/10.1016/j.lwt.2022.113786,10.1016/j.lwt.2022.113786,Triacylglycerol lipase,Yarrowia lipolytica,https://www.uniprot.org/uniprotkb/Q9P8F7/entry,Q9P8F7,S,269,A,275,Increase
+DDB0181,https://pubmed.ncbi.nlm.nih.gov/36602359/,36602359,Lipase,Rhizopus oryzae,https://www.uniprot.org/uniprotkb/P61871/entry,P61871,S,61,S,115,Increase
+DDB0182,https://pubmed.ncbi.nlm.nih.gov/36602359/,36602359,Lipase,Rhizopus oryzae,https://www.uniprot.org/uniprotkb/P61871/entry,P61871,E,190,E,238,Increase
+DDB0183,https://pubmed.ncbi.nlm.nih.gov/16686937/,16686937,Acetylcholinesterase,Drosophila melanogaster,https://www.uniprot.org/uniprotkb/P07140/entry,P07140,I,327,D,375,Increase
+DDB0189,https://pubmed.ncbi.nlm.nih.gov/30145159/,30145159,"Endo-1,4-beta-xylanase",Penicillium janthinellum,https://www.uniprot.org/uniprotkb/A0A5B8HC41/entry,A0A5B8HC41,S,27,S,39,Increase
+DDB0190,https://pubmed.ncbi.nlm.nih.gov/30145159/,30145159,"Endo-1,4-beta-xylanase",Penicillium janthinellum,https://www.uniprot.org/uniprotkb/A0A5B8HC41/entry,A0A5B8HC41,S,27,S,186,Increase
+DDB0191,https://pubmed.ncbi.nlm.nih.gov/30145159/,30145159,"Endo-1,4-beta-xylanase",Penicillium janthinellum,https://www.uniprot.org/uniprotkb/A0A5B8HC41/entry,A0A5B8HC41,S,39,S,186,Increase
+DDB0192,https://pubmed.ncbi.nlm.nih.gov/24649397/,24649397,"Cyclohexanone 1,2-monooxygenase",Acinetobacter sp.,https://www.uniprot.org/uniprotkb/P12015/entry,P12015,L,323,A,325,Increase
+DDB0193,https://pubmed.ncbi.nlm.nih.gov/24649397/,24649397,"Cyclohexanone 1,2-monooxygenase",Acinetobacter sp.,https://www.uniprot.org/uniprotkb/P12015/entry,P12015,A,255,A,293,Increase
+DDB0194,https://pubmed.ncbi.nlm.nih.gov/24649397/,24649397,"Cyclohexanone 1,2-monooxygenase",Acinetobacter sp.,https://www.uniprot.org/uniprotkb/P12015/entry,P12015,A,325,L,483,Increase
+DDB0215,https://doi.org/10.1002/cctc.201901369,10.1002/cctc.201901369,Lipase,Geobacillus stearothermophilus,https://www.uniprot.org/uniprotkb/Q93A71/entry,Q93A71,S,131,F,149,Increase
+DDB0217,https://doi.org/10.1002/cctc.201901369,10.1002/cctc.201901369,Lipase,Geobacillus stearothermophilus,https://www.uniprot.org/uniprotkb/Q93A71/entry,Q93A71,E,134,F,149,Increase
+DDB0220,https://doi.org/10.1002/cctc.201901369,10.1002/cctc.201901369,Lipase,Geobacillus stearothermophilus,https://www.uniprot.org/uniprotkb/Q93A71/entry,Q93A71,A,195,V,198,Increase
+DDB0224,https://doi.org/10.1002/cctc.201901369,10.1002/cctc.201901369,Lipase,Geobacillus stearothermophilus,https://www.uniprot.org/uniprotkb/Q93A71/entry,Q93A71,E,251,G,332,Increase
+DDB0227,https://pubmed.ncbi.nlm.nih.gov/36232620/,36232620,Phospholipase D,Moritella sp. JT01,https://www.uniprot.org/uniprotkb/A0A137SLD1/entry,A0A137SLD1,S,63,V,112,Increase
+DDB0229,https://pubmed.ncbi.nlm.nih.gov/36232620/,36232620,Phospholipase D,Moritella sp. JT01,https://www.uniprot.org/uniprotkb/A0A137SLD1/entry,A0A137SLD1,S,148,T,206,Increase
+DDB0230,https://pubmed.ncbi.nlm.nih.gov/36232620/,36232620,Phospholipase D,Moritella sp. JT01,https://www.uniprot.org/uniprotkb/A0A137SLD1/entry,A0A137SLD1,D,225,A,328,Increase
+DDB0238,https://pubmed.ncbi.nlm.nih.gov/36232620/,36232620,Phospholipase D,Moritella sp. JT01,https://www.uniprot.org/uniprotkb/A0A137SLD1/entry,A0A137SLD1,S,487,I,550,Increase
+DDB0240,https://pubmed.ncbi.nlm.nih.gov/35926674/,35926674,Methylaspartate ammonia-lyase,Escherichia coli O157:H7,https://www.ncbi.nlm.nih.gov/protein/1976643085,QRI41063.1,A,10,A,86,Increase
+DDB0241,https://pubmed.ncbi.nlm.nih.gov/35926674/,35926674,Methylaspartate ammonia-lyase,Escherichia coli O157:H7,https://www.ncbi.nlm.nih.gov/protein/1976643085,QRI41063.1,Y,34,V,46,Increase
+DDB0243,https://pubmed.ncbi.nlm.nih.gov/35926674/,35926674,Methylaspartate ammonia-lyase,Escherichia coli O157:H7,https://www.ncbi.nlm.nih.gov/protein/1976643085,QRI41063.1,F,170,V,191,Increase
+DDB0245,https://pubmed.ncbi.nlm.nih.gov/35168166/,35168166,Phytase,Lactiplantibacillus plantarum,https://www.uniprot.org/uniprotkb/A0A2R4KWN1/entry,A0A2R4KWN1,S,58,K,61,Increase
+DDB0246,https://pubmed.ncbi.nlm.nih.gov/27363471/,27363471,rPhyA6DB,Synthetic construct,https://www.ncbi.nlm.nih.gov/protein/1042818239,ANQ80449.1,T,101,S,307,Increase
+DDB0247,https://pubmed.ncbi.nlm.nih.gov/27363471/,27363471,rPhyA6DB,Synthetic construct,https://www.ncbi.nlm.nih.gov/protein/1042818239,ANQ80449.1,T,354,V,381,Increase
+DDB0248,https://pubmed.ncbi.nlm.nih.gov/27363471/,27363471,rPhyA6DB,Synthetic construct,https://www.ncbi.nlm.nih.gov/protein/1042818239,ANQ80449.1,V,352,F,398,Increase
+DDB0249,https://pubmed.ncbi.nlm.nih.gov/27363471/,27363471,rPhyA6DB,Synthetic construct,https://www.ncbi.nlm.nih.gov/protein/1042818239,ANQ80449.1,A,229,M,364,Increase
+DDB0250,https://pubmed.ncbi.nlm.nih.gov/23999738/,23999738,Phenylalanine ammonia-lyase,Anabeana variabilis,https://www.uniprot.org/uniprotkb/Q3M5Z3/entry,Q3M5Z3,Q,292,C,503,Increase
+DDB0251,https://pubmed.ncbi.nlm.nih.gov/27863256/,27863256,Super renilla luciferase 8,Synthetic construct,https://www.ncbi.nlm.nih.gov/protein/AMR57252,AMR57252.1,N,45,A,71,Increase
+DDB0253,https://pubmed.ncbi.nlm.nih.gov/37178549/,37178549,lytic polysaccharide monooxygenase 9A,Thermothelomyces thermophilus,https://www.uniprot.org/uniprotkb/A0A0H4K9X4/entry,A0A0H4K9X4,S,174,A,93,Increase
+DDB0254,https://pubmed.ncbi.nlm.nih.gov/37178549/,37178549,lytic polysaccharide monooxygenase 9A,Thermothelomyces thermophilus,https://www.uniprot.org/uniprotkb/A0A0H4K9X4/entry,A0A0H4K9X4,S,118,H,61,Increase
+DDB0255,https://pubmed.ncbi.nlm.nih.gov/37178549/,37178549,lytic polysaccharide monooxygenase 9A,Thermothelomyces thermophilus,https://www.uniprot.org/uniprotkb/A0A0H4K9X4/entry,A0A0H4K9X4,V,173,A,178,Increase
+DDB0256,https://pubmed.ncbi.nlm.nih.gov/37178549/,37178549,lytic polysaccharide monooxygenase 9A,Thermothelomyces thermophilus,https://www.uniprot.org/uniprotkb/A0A0H4K9X4/entry,A0A0H4K9X4,P,103,L,109,Increase
+DDB0260,https://pubmed.ncbi.nlm.nih.gov/37178549/,37178549,lytic polysaccharide monooxygenase 9A,Thermothelomyces thermophilus,https://www.uniprot.org/uniprotkb/A0A0H4K9X4/entry,A0A0H4K9X4,Y,132,L,159,Increase
+DDB0261,https://pubmed.ncbi.nlm.nih.gov/35462273/,35462273,Bacterial alpha-L-rhamnosidase,Bacteroides thetaiotaomicron,https://www.uniprot.org/uniprotkb/A0A0P0FAS5/entry,A0A0P0FAS5,S,592,C,619,Increase
+DDB0262,https://pubmed.ncbi.nlm.nih.gov/34311887/,34311887,D-allulose 3-epimerase,Halanaerobium congolense,https://www.ncbi.nlm.nih.gov/protein/WP_110301365.1,110301365.1,K,122,G,252,Increase
+DDB0264,https://pubmed.ncbi.nlm.nih.gov/34311887/,34311887,D-allulose 3-epimerase,Halanaerobium congolense,https://www.ncbi.nlm.nih.gov/protein/WP_110301365.1,110301365.1,R,156,K,260,Increase
+DDB0265,https://pubs.acs.org/doi/10.1021/acscatal.1c01204,10.1021/acscatal.1c01204,polyethylene terephthalate Hydrolase,Synthetic construct,https://www.uniprot.org/uniprotkb/C3RYL0/entry,C3RYL0,R,47,G,89,Increase
+DDB0266,https://pubs.acs.org/doi/10.1021/acscatal.1c01204,10.1021/acscatal.1c01204,polyethylene terephthalate Hydrolase,Synthetic construct,https://www.uniprot.org/uniprotkb/C3RYL0/entry,C3RYL0,L,265,A,295,Increase
+DDB0268,https://pubs.acs.org/doi/10.1021/acscatal.1c01204,10.1021/acscatal.1c01204,polyethylene terephthalate Hydrolase,Synthetic construct,https://www.uniprot.org/uniprotkb/C3RYL0/entry,C3RYL0,Y,262,L,298,Increase
+DDB0269,https://pubmed.ncbi.nlm.nih.gov/32035157/,32035157,Chitinase,Paenibacillus pasadenensis,https://www.uniprot.org/uniprotkb/A0A343F0L1/entry,A0A343F0L1,S,244,I,319,Increase
+DDB0270,https://pubmed.ncbi.nlm.nih.gov/29310517/,29310517,Pectinase,Synthetic construct,https://www.uniprot.org/uniprotkb/B8YJC4/entry,B8YJC4,M,283,C,255,Increase
+DDB0271,https://pubmed.ncbi.nlm.nih.gov/29101200/,29101200,Lipase,Rhizomucor miehei,https://www.uniprot.org/uniprotkb/P19515/entry,P19515,S,56,N,63,Increase
+DDB0272,https://pubmed.ncbi.nlm.nih.gov/29101200/,29101200,Lipase,Rhizomucor miehei,https://www.uniprot.org/uniprotkb/P19515/entry,P19515,V,189,D,238,Increase
+DDB0275,https://pubmed.ncbi.nlm.nih.gov/27419048/,27419048,CUTINASE,Thermobifida fusca,https://www.uniprot.org/uniprotkb/Q6A0I4/entry,Q6A0I4,D,204,E,253,Increase
+DDB0276,https://pubmed.ncbi.nlm.nih.gov/27966481/,27966481,Parathion hydrolase,Brevundimonas diminuta,https://www.uniprot.org/uniprotkb/P0A434/entry,P0A434,A,204,T,234,Increase
+DDB0277,https://pubmed.ncbi.nlm.nih.gov/27966481/,27966481,Parathion hydrolase,Brevundimonas diminuta,https://www.uniprot.org/uniprotkb/P0A434/entry,P0A434,T,128,E,153,Increase
+DDB0279,https://pubmed.ncbi.nlm.nih.gov/25159509/,25159509,Luciferase,Firefly,https://www.uniprot.org/uniprotkb/P08659/entry,P08659,A,296,A,326,Increase
+DDB0280,https://pubmed.ncbi.nlm.nih.gov/25159509/,25159509,Luciferase,Firefly,https://www.uniprot.org/uniprotkb/P08659/entry,P08659,P,451,V,469,Increase
+DDB0281,https://pubmed.ncbi.nlm.nih.gov/23897465/,23897465,Carbonic anhydrase 2,Human,https://www.uniprot.org/uniprotkb/P00918/entry,P00918,A,23,L,203,Increase
+DDB0282,https://pubmed.ncbi.nlm.nih.gov/32625042/,32625042,L-isoleucine-4-hydroxylase,Bacillus thuringiensis,https://www.uniprot.org/uniprotkb/E2GIN1/entry,E2GIN1,T,181,C,226,Increase
+DDB0283,http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=WSWT201811001&uniplatform=OVERSEA&v=WMx4dakW2EMZ8OPW33_AjmyYxsbwHaq2ofzXntT8nOruZhRF5qlDX_-fq-n_Omcz,10.13344/j.microbiol.china.180123,Lipase,Rhizopus chinensis,https://www.uniprot.org/uniprotkb/A3FM73/entry,A3FM73,S,85,Q,145,Increase
+DDB0284,http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=GXNB202102027&uniplatform=OVERSEA&v=mV-rDA5RWoK__hRU1VuR8AJpgp81MmvOtXEF_datm1dvFiGOcznkbhVlPP83K73L,10.13417/j.gab.040.000678,Cutinase cut2,Thermobifida fusca,https://www.uniprot.org/uniprotkb/Q6A0I4/entry,Q6A0I4,D,204,E,253,Increase
+DDB0285,http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=SPFX202115002&uniplatform=OVERSEA&v=_f6t9sWdgG6K8yZDgMSpi30Gj5eDaH5x2sJ0FqG1RBZ4H_5gNRUkXSnAgGuhsPAi,10.13995/j.cnki.11-1802/ts.027052,Protein-glutamine gamma-glutamyltransferase,Streptomyces mobaraensis,https://www.uniprot.org/uniprotkb/P81453/entry,P81453,P,244,E,249,Increase
+DDB0286,http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=SPFX202115002&uniplatform=OVERSEA&v=_f6t9sWdgG6K8yZDgMSpi30Gj5eDaH5x2sJ0FqG1RBZ4H_5gNRUkXSnAgGuhsPAi,10.13995/j.cnki.11-1802/ts.027052,Protein-glutamine gamma-glutamyltransferase,Streptomyces mobaraensis,https://www.uniprot.org/uniprotkb/P81453/entry,P81453,P,22,Q,328,Increase
+DDB0287,http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=SPFX202115002&uniplatform=OVERSEA&v=_f6t9sWdgG6K8yZDgMSpi30Gj5eDaH5x2sJ0FqG1RBZ4H_5gNRUkXSnAgGuhsPAi,10.13995/j.cnki.11-1802/ts.027052,Protein-glutamine gamma-glutamyltransferase,Streptomyces mobaraensis,https://www.uniprot.org/uniprotkb/P81453/entry,P81453,D,118,K,121,Increase
+DDB0297,http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=WXQG201907015&uniplatform=OVERSEA&v=i9RWqdVpWisTDT62HKPsI6nt_ZB_dVKT_s8L5t4bGkKA5h8bQKWDFp_Z55-2Zcte,Molecular Engineering of Mycoestrogen-Detoxifying Lactonase ZHD101 to Improve Enzyme Thermostability,Zearalenone lactonase,Bionectria ochroleuca,https://www.uniprot.org/uniprotkb/A0A0N9XBU7/entry,A0A0N9XBU7,S,136,R,189,Increase
+DDB0298,http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=WXQG201907015&uniplatform=OVERSEA&v=i9RWqdVpWisTDT62HKPsI6nt_ZB_dVKT_s8L5t4bGkKA5h8bQKWDFp_Z55-2Zcte,Molecular Engineering of Mycoestrogen-Detoxifying Lactonase ZHD101 to Improve Enzyme Thermostability,Zearalenone lactonase,Bionectria ochroleuca,https://www.uniprot.org/uniprotkb/A0A0N9XBU7/entry,A0A0N9XBU7,D,143,P,181,Increase
+DDB0304,http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GYWS201805001&uniplatform=OVERSEA&v=fU4-wLapx5UQm-Zn6fcCEf__HBhgItU6v276zWkN5l9ARQdcwymHk-e9eOXP0AhL,Improving thermostability of lipase from Rhizopus chinensis via introducing novel disulfide bond by site-directed mutagenesis,Lipase,Rhizopus chinensis,https://www.uniprot.org/uniprotkb/A3FM73/entry,A3FM73,T,201,C,204,Increase
+DDB0305,https://pubmed.ncbi.nlm.nih.gov/34232745/,34232745,Methyltransferase,Serratia,https://www.uniprot.org/uniprotkb/Q5W249/entry,Q5W249,G,176,M,245,Increase
+DDB0306,https://pubmed.ncbi.nlm.nih.gov/34232745/,34232745,Methyltransferase,Serratia,https://www.uniprot.org/uniprotkb/Q5W249/entry,Q5W249,S,53,C,49,Increase
+DDB0307,https://pubmed.ncbi.nlm.nih.gov/16890032/,16890032,Beta-lactamase Toho-1,Escherichia coli,https://www.uniprot.org/uniprotkb/Q47066/entry,Q47066,A,77,G,123,Increase
+DDB0308,https://pubmed.ncbi.nlm.nih.gov/20075611/,20075611,Dextranase,Lipomyces starkeyi,https://www.uniprot.org/uniprotkb/Q2HPE6/entry,Q2HPE6,D,279,S,289,Increase
+DDB0309,https://pubmed.ncbi.nlm.nih.gov/8630012/,8630012,Alkaline serine protease,Pseudomonas sp.,https://www.uniprot.org/uniprotkb/Q52407/entry,Q52407,G,199,F,236,Increase
+DDB0311,http://chinafoodj.ijournals.cn/ch/reader/create_pdf.aspx?file_no=20220414008&flag=1&journal_id=spzljcxb,20220414008&flag=1&journal_id=spzljcxb,ZEN-JJM,Bionectria ochroleuca,https://www.uniprot.org/uniprotkb/G9FTK5/entry,G9FTK5,Q,45,A,253,Increase
+DDB0316,https://pubmed.ncbi.nlm.nih.gov/8679632/,8679632,Glucoamylase,Aspergillus awamori,https://www.uniprot.org/uniprotkb/P69327 /entry,P69327,T,246,C,320,Increase
+DDB0317,https://pubmed.ncbi.nlm.nih.gov/11856350/,11856350,(betaalpha)8-barrel enzyme indoleglycerol phosphate synthase,Escherichia coli (strain K12),https://www.uniprot.org/uniprotkb/P00909/entry,P00909,T,3,R,189,Increase
+DDB0318,https://pubmed.ncbi.nlm.nih.gov/2671995/,2671995,Endolysin,Enterobacteria phage T4,https://www.uniprot.org/uniprotkb/P00720/entry,P00720,I,9,L,164,Increase
+DDB0319,https://pubmed.ncbi.nlm.nih.gov/2671995/,2671995,Endolysin,Enterobacteria phage T4,https://www.uniprot.org/uniprotkb/P00720/entry,P00720,T,21,T,142,Increase
+DDB0322,https://pubmed.ncbi.nlm.nih.gov/3277175/,3277175,Endolysin,Enterobacteria phage T4,https://www.uniprot.org/uniprotkb/P00720/entry,P00720,I,3,C,97,Increase
+DDB0323,https://pubmed.ncbi.nlm.nih.gov/10835231/,10835231,Manganese peroxidase 1,Phanerodontia chrysosporium,https://www.uniprot.org/uniprotkb/Q02567/entry,Q02567,A,48,A,63,Increase
+DDB0324,https://pubmed.ncbi.nlm.nih.gov/1848845/,1848845,Ribonuclease H,Escherichia coli,https://www.uniprot.org/uniprotkb/P0A7Y4/entry,P0A7Y4,C,13,N,44,Increase
+DDB0328,https://pubmed.ncbi.nlm.nih.gov/2504281/,2504281,Subtilisin BPN,Bacillus amyloliquefaciens,https://www.uniprot.org/uniprotkb/P00782/entry,P00782,D,41,G,80,Increase
+DDB0330,https://pubmed.ncbi.nlm.nih.gov/3516996/,3516996,Subtilisin BPN,Bacillus amyloliquefaciens,https://www.uniprot.org/uniprotkb/P00782/entry,P00782,T,22,S,87,Increase
+DDB0331,https://pubmed.ncbi.nlm.nih.gov/7700870/,7700870,"Endo-1,4-beta-xylanase",Bacillus circulans,https://www.uniprot.org/uniprotkb/P09850/entry,P09850,S,100,N,148,Increase
+DDB0332,https://pubmed.ncbi.nlm.nih.gov/7700870/,7700870,"Endo-1,4-beta-xylanase",Bacillus circulans,https://www.uniprot.org/uniprotkb/P09850/entry,P09850,V,98,A,152,Increase
+DDB0334,https://pubmed.ncbi.nlm.nih.gov/17493882/,17493882,Alkaline phosphatase,Vibrio,https://www.ncbi.nlm.nih.gov/protein/WP_170891155.1,170891155.1,C,67,G,51,Increase
+DDB0335,https://pubmed.ncbi.nlm.nih.gov/17493882/,17493882,Alkaline phosphatase,Vibrio,https://www.ncbi.nlm.nih.gov/protein/WP_170891155.1,170891155.1,C,67,S,52,Increase
+DDB0336,https://pubmed.ncbi.nlm.nih.gov/17493882/,17493882,Alkaline phosphatase,Vibrio,https://www.ncbi.nlm.nih.gov/protein/WP_170891155.1,170891155.1,C,67,S,53,Increase
+DDB0337,https://pubmed.ncbi.nlm.nih.gov/31242622/,31242622,Alginate Lyase,Microbulbifer sp. Q7,https://www.ncbi.nlm.nih.gov/protein/WP_170891155.1,066959628.1,D,102,A,300,Increase
+DDB0342,https://pubmed.ncbi.nlm.nih.gov/31242622/,31242622,Alginate Lyase,Microbulbifer sp. Q7,https://www.ncbi.nlm.nih.gov/protein/WP_170891155.1,066959628.1,V,207,I,224,Increase
+DDB0343,https://pubmed.ncbi.nlm.nih.gov/23936134/,23936134,Phytase,Citrobacter braakii,https://www.uniprot.org/uniprotkb/Q2VY22/entry,Q2VY22,N,31,T,177,Increase
+DDB0346,https://pubmed.ncbi.nlm.nih.gov/30650138/,30650138,"Endo-1,4-beta-xylanase",Trichoderma reesei,https://www.uniprot.org/uniprotkb/F8W669/entry,F8W669,F,14,Q,52,Increase
+DDB0347,https://pubmed.ncbi.nlm.nih.gov/30650138/,30650138,"Endo-1,4-beta-xylanase",Trichoderma reesei,https://www.uniprot.org/uniprotkb/F8W669/entry,F8W669,V,59,S,149,Increase
+DDB0348,https://pubmed.ncbi.nlm.nih.gov/15129722/,15129722,"Endo-1,4-beta-xylanase",Trichoderma reesei,https://www.uniprot.org/uniprotkb/F8W669/entry,F8W669,T,2,T,28,Increase
+DDB0351,https://pubmed.ncbi.nlm.nih.gov/31000163/,31000163,Triacylglycerol lipase,Yarrowia lipolytica,https://www.uniprot.org/uniprotkb/Q9P8F7/entry,Q9P8F7,S,60,S,69,Increase
+DDB0352,https://pubmed.ncbi.nlm.nih.gov/31000163/,31000163,Triacylglycerol lipase,Yarrowia lipolytica,https://www.uniprot.org/uniprotkb/Q9P8F7/entry,Q9P8F7,A,118,V,177,Increase
+DDB0353,https://pubmed.ncbi.nlm.nih.gov/31000163/,31000163,Triacylglycerol lipase,Yarrowia lipolytica,https://www.uniprot.org/uniprotkb/Q9P8F7/entry,Q9P8F7,D,122,G,196,Increase
+DDB0354,https://pubmed.ncbi.nlm.nih.gov/31000163/,31000163,Triacylglycerol lipase,Yarrowia lipolytica,https://www.uniprot.org/uniprotkb/Q9P8F7/entry,Q9P8F7,Y,2,V,210,Increase
+DDB0355,https://pubmed.ncbi.nlm.nih.gov/31000163/,31000163,Triacylglycerol lipase,Yarrowia lipolytica,https://www.uniprot.org/uniprotkb/Q9P8F7/entry,Q9P8F7,S,8,S,214,Increase
+DDB0356,https://pubmed.ncbi.nlm.nih.gov/31000163/,31000163,Triacylglycerol lipase,Yarrowia lipolytica,https://www.uniprot.org/uniprotkb/Q9P8F7/entry,Q9P8F7,S,14,V,216,Increase
+DDB0357,https://pubmed.ncbi.nlm.nih.gov/36553811/,36553811,Lipase,Malassezia globosa,https://www.uniprot.org/uniprotkb/A8PUY1/entry,A8PUY1,G,28,P,206,Increase
+DDB0358,https://pubmed.ncbi.nlm.nih.gov/36553811/,36553811,Lipase,Malassezia globosa,https://www.uniprot.org/uniprotkb/A8PUY1/entry,A8PUY1,S,59,T,74,Increase
+DDB0359,https://pubmed.ncbi.nlm.nih.gov/36553811/,36553811,Lipase,Malassezia globosa,https://www.uniprot.org/uniprotkb/A8PUY1/entry,A8PUY1,G,67,V,301,Increase
+DDB0360,https://pubmed.ncbi.nlm.nih.gov/36553811/,36553811,Lipase,Malassezia globosa,https://www.uniprot.org/uniprotkb/A8PUY1/entry,A8PUY1,S,69,S,89,Increase
+DDB0361,https://pubmed.ncbi.nlm.nih.gov/36553811/,36553811,Lipase,Malassezia globosa,https://www.uniprot.org/uniprotkb/A8PUY1/entry,A8PUY1,I,249,A,257,Increase
+DDB0362,https://pubmed.ncbi.nlm.nih.gov/36553811/,36553811,Lipase,Malassezia globosa,https://www.uniprot.org/uniprotkb/A8PUY1/entry,A8PUY1,H,287,H,304,Increase
+DDB0363,https://pubmed.ncbi.nlm.nih.gov/31401092/,31401092,"Endo-1,4-beta-xylanase",Bacillus firmus,https://www.uniprot.org/uniprotkb/Q71S35/entry,Q71S35,S,100,N,147,Increase
+DDB0366,https://pubmed.ncbi.nlm.nih.gov/27385052/,27385052,Carbonic anhydrase,Neisseria gonorrhoeae,https://www.uniprot.org/uniprotkb/Q50940 /entry,Q50940,T,133,D,197,Increase
+DDB0367,https://pubmed.ncbi.nlm.nih.gov/27385052/,27385052,Carbonic anhydrase,Neisseria gonorrhoeae,https://www.uniprot.org/uniprotkb/Q50940 /entry,Q50940,P,56,P,156,Increase
+DDB0368,https://pubmed.ncbi.nlm.nih.gov/27385052/,27385052,Carbonic anhydrase,Neisseria gonorrhoeae,https://www.uniprot.org/uniprotkb/Q50940 /entry,Q50940,N,63,P,145,Increase
+DDB0369,https://pubmed.ncbi.nlm.nih.gov/25739581/,25739581,"Limonene-1,2-epoxide hydrolase",Rhodococcus erythropolis,https://www.uniprot.org/uniprotkb/Q9ZAG3/entry,Q9ZAG3,I,5,E,84,Increase
+DDB0370,https://pubmed.ncbi.nlm.nih.gov/35111741/,35111741,Lytic polysaccharide monooxygenases,Cellvibrio japonicus,https://www.uniprot.org/uniprotkb/B3PJ79 /entry,B3PJ79,N,78,H,116,Increase
+DDB0371,https://doi.org/10.1093/protein/gzx014,10.1093/protein/gzx014,Cyclodextrin glycosyltransferase,Paenibacillus barengoltzii,https://www.uniprot.org/uniprotkb/Q9RJY2 /entry,Q9RJY2,A,143,P,183,Increase
+DDB0372,https://doi.org/10.1093/protein/gzx014,10.1093/protein/gzx014,Cyclodextrin glycosyltransferase,Paenibacillus barengoltzii,https://www.uniprot.org/uniprotkb/Q9RJY2 /entry,Q9RJY2,A,52,P,61,Increase
+DDB0373,https://doi.org/10.1093/protein/gzx014,10.1093/protein/gzx014,Cyclodextrin glycosyltransferase,Paenibacillus barengoltzii,https://www.uniprot.org/uniprotkb/Q9RJY2 /entry,Q9RJY2,S,73,D,112,Increase
+DDB0374,https://doi.org/10.1093/protein/gzx014,10.1093/protein/gzx014,Cyclodextrin glycosyltransferase,Paenibacillus barengoltzii,https://www.uniprot.org/uniprotkb/Q9RJY2 /entry,Q9RJY2,S,73,A,115,Increase
+DDB0387,https://pubmed.ncbi.nlm.nih.gov/27410423/,27410423,"Endo-1,4-beta-xylanase C",Talaromyces funiculosus,https://www.uniprot.org/uniprotkb/Q9HFH0/entry,Q9HFH0,S,35,T,62,Increase
+DDB0388,https://pubmed.ncbi.nlm.nih.gov/8888145/,8888145,Lipase,Penicillium camemberti,https://www.uniprot.org/uniprotkb/P61870/entry,P61870,Y,22,G,269,Increase
+DDB0389,https://pubmed.ncbi.nlm.nih.gov/23056295/,23056295,Lipase,Rhizopus chinensis,https://www.uniprot.org/uniprotkb/A3FM73 /entry,A3FM73,F,95,F,214,Increase
+DDB0391,https://pubmed.ncbi.nlm.nih.gov/30905899/,30905899,"Endo-1,4-beta-xylanase",Aspergillus niger,https://www.uniprot.org/uniprotkb/I3QKR9/entry,I3QKR9,T,205,A,52,Increase
+DDB0392,https://pubmed.ncbi.nlm.nih.gov/15129722/,15129722,"Endo-1,4-beta-xylanase 2",Trichoderma reesei,https://www.uniprot.org/uniprotkb/F8W669/entry,F8W669,T,2,T,28,Increase
+DDB0393,https://pubmed.ncbi.nlm.nih.gov/16919348/,16919348,"Endo-1,4-beta-xylanase A",Geobacillus stearothermophilus,https://www.uniprot.org/uniprotkb/P45705/entry,P45705,S,100,N,150,Increase
+DDB0394,https://pubmed.ncbi.nlm.nih.gov/27118076/,27118076,"Endo-1,4-beta-xylanase B",Aspergillus niger,https://www.uniprot.org/uniprotkb/P55330/entry,P55330,V,1,E,27,Increase
+DDB0396,https://pubmed.ncbi.nlm.nih.gov/28484256/,28484256,"Endo-1,4-beta-xylanase",Aspergillus sulphureus,https://www.uniprot.org/uniprotkb/Q2I0I8/entry,Q2I0I8,P,51,T,144,Increase
+DDB0397,https://pubmed.ncbi.nlm.nih.gov/28484256/,28484256,"Endo-1,4-beta-xylanase",Aspergillus sulphureus,https://www.uniprot.org/uniprotkb/Q2I0I8/entry,Q2I0I8,S,49,A,146,Increase
+DDB0398,https://pubmed.ncbi.nlm.nih.gov/24212471/,24212471,"Endo-1,4-beta-xylanase",Paenibacillus campinasensis,https://www.uniprot.org/uniprotkb/Q2I6W5/entry,Q2I6W5,T,84,T,182,Increase
+DDB0399,https://link.springer.com/article/10.1134/S0003683819020108,10.1134/S0003683819020108,"Endo-1,4-beta-xylanase B",Aspergillus niger,https://www.uniprot.org/uniprotkb/P55330/entry,P55330,G,116,Y,135,Increase
+DDB0400,https://link.springer.com/article/10.1007/s12257-016-0339-6,10.1007/s12257-016-0339-6,"Endo-1,4-beta-xylanase",Aspergillus oryzae,https://www.uniprot.org/uniprotkb/H6WWN7/entry,H6WWN7,S,108,N,152,Increase
+DDB0401,https://pubmed.ncbi.nlm.nih.gov/36752811/,36752811,Lipase,Geobacillus zalihae,https://www.uniprot.org/uniprotkb/Q842J9/entry,Q842J9,S,2,A,384,Increase
+DDB0402,https://pubmed.ncbi.nlm.nih.gov/36752811/,36752811,Lipase,Geobacillus zalihae,https://www.uniprot.org/uniprotkb/Q842J9/entry,Q842J9,N,6,P,388,Increase
+DDB0403,https://pubmed.ncbi.nlm.nih.gov/12451555/,12451555,Alkaline protease 1,Aspergillus oryzae,https://www.uniprot.org/uniprotkb/P12547 /entry,P12547,S,69,G,101,Increase
+DDB0404,https://pubmed.ncbi.nlm.nih.gov/12451555/,12451555,Alkaline protease 1,Aspergillus oryzae,https://www.uniprot.org/uniprotkb/P12547 /entry,P12547,G,169,V,200,Increase
+DDB0405,https://pubmed.ncbi.nlm.nih.gov/35367265/,35367265,Poly(ethylene terephthalate) hydrolase,Ideonella sakaiensis,https://www.uniprot.org/uniprotkb/A0A0K8P6T7/entry,A0A0K8P6T7,N,233,S,282,Increase
+DDB0408,https://pubmed.ncbi.nlm.nih.gov/25272730/,25272730,Glucoamylase,Aspergillus awamori,https://www.uniprot.org/uniprotkb/A0A401KXT8/entry,A0A401KXT8,A,246,A,14,Increase
+DDB0409,https://pubmed.ncbi.nlm.nih.gov/24976371/,24976371,Haloalkane dehalogenase LinB,Synthetic construct,https://www.uniprot.org/uniprotkb/F4ZZG8 /entry,F4ZZG8,A,5,A,185,Increase

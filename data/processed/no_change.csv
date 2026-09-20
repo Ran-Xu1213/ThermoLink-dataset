@@ -1,0 +1,29 @@
+record_id,reference_url,reference_id,protein,organism,uniprot_url,uniprot_id,residue_i,position_i,residue_j,position_j,thermostability
+DDB0041,https://pubmed.ncbi.nlm.nih.gov/12324460/,12324460,Alpha-amylase,Pseudoalteromonas haloplanktis,https://www.uniprot.org/uniprotkb/P29957/entry,P29957,Q,58,A,99,No change
+DDB0050,https://pubmed.ncbi.nlm.nih.gov/9749918/,9749918,Glucoamylase,Aspergillus awamori,https://www.uniprot.org/uniprotkb/P69327/entry,P69327,T,72,A,471,No change
+DDB0064,https://pubmed.ncbi.nlm.nih.gov/32732025/,32732025,Dextransucrase,Leuconostoc mesenteroides,https://www.uniprot.org/uniprotkb/Q2I2N5/entry,Q2I2N5,F,479,N,516,No change
+DDB0065,https://pubmed.ncbi.nlm.nih.gov/32732025/,32732025,Dextransucrase,Leuconostoc mesenteroides,https://www.uniprot.org/uniprotkb/Q2I2N5/entry,Q2I2N5,D,739,N,516,No change
+DDB0120,https://pubmed.ncbi.nlm.nih.gov/35563929/,35563929,"Glucan 1,4-alpha-maltotetraohydrolase",Pelomonas saccharophila,https://www.uniprot.org/uniprotkb/P22963/entry,P22963,S,409,Q,412,Less 1
+DDB0122,https://onlinelibrary.wiley.com/doi/10.1002/star.202000274,10.1002/star.202000274,Alpha-amylase,Geobacillus stearothermophilus,https://www.uniprot.org/uniprotkb/M9YQF0/entry,M9YQF0,A,30,A,94,No change
+DDB0150,https://pubmed.ncbi.nlm.nih.gov/35559271/,35559271,Lipase,Rhizopus niveus,https://www.uniprot.org/uniprotkb/P61871/entry,P61871,D,49,K,72,No change
+DDB0151,https://pubmed.ncbi.nlm.nih.gov/35559271/,35559271,Lipase,Rhizopus niveus,https://www.uniprot.org/uniprotkb/P61871/entry,P61871,Y,20,F,173,No change
+DDB0156,https://pubmed.ncbi.nlm.nih.gov/24867629/,24867629,Triacylglycerol lipase,Penicillium expansum,https://www.uniprot.org/uniprotkb/Q7LST4/entry,Q7LST4,P,191,S,229,No change
+DDB0157,https://pubmed.ncbi.nlm.nih.gov/24867629/,24867629,Triacylglycerol lipase,Penicillium expansum,https://www.uniprot.org/uniprotkb/Q7LST4/entry,Q7LST4,P,163,F,201,No change
+DDB0166,https://doi.org/10.1016/j.lwt.2022.113786,10.1016/j.lwt.2022.113786,Triacylglycerol lipase,Yarrowia lipolytica,https://www.uniprot.org/uniprotkb/Q9P8F7/entry,Q9P8F7,V,1,Q,268,Less 1
+DDB0168,https://doi.org/10.1016/j.lwt.2022.113786,10.1016/j.lwt.2022.113786,Triacylglycerol lipase,Yarrowia lipolytica,https://www.uniprot.org/uniprotkb/Q9P8F7/entry,Q9P8F7,S,4,Q,266,Less 1
+DDB0171,https://doi.org/10.1016/j.lwt.2022.113786,10.1016/j.lwt.2022.113786,Triacylglycerol lipase,Yarrowia lipolytica,https://www.uniprot.org/uniprotkb/Q9P8F7/entry,Q9P8F7,N,52,A,77,Less 1
+DDB0179,https://doi.org/10.1016/j.lwt.2022.113786,10.1016/j.lwt.2022.113786,Triacylglycerol lipase,Yarrowia lipolytica,https://www.uniprot.org/uniprotkb/Q9P8F7/entry,Q9P8F7,S,8,M,264,Less 1
+DDB0218,https://doi.org/10.1002/cctc.201901369,10.1002/cctc.201901369,Lipase,Geobacillus stearothermophilus,https://www.uniprot.org/uniprotkb/Q93A71/entry,Q93A71,A,163,T,270,Less 1
+DDB0222,https://doi.org/10.1002/cctc.201901369,10.1002/cctc.201901369,Lipase,Geobacillus stearothermophilus,https://www.uniprot.org/uniprotkb/Q93A71/entry,Q93A71,N,281,S,302,Less 1
+DDB0252,https://pubmed.ncbi.nlm.nih.gov/14568538/,14568538,Exoglucanase 1,Hypocrea jecorina,https://www.uniprot.org/uniprotkb/P62694/entry,P62694,D,241,D,249,No change
+DDB0257,https://pubmed.ncbi.nlm.nih.gov/37178549/,37178549,lytic polysaccharide monooxygenase 9A,Thermothelomyces thermophilus,https://www.uniprot.org/uniprotkb/A0A0H4K9X4/entry,A0A0H4K9X4,V,85,V,79,No change
+DDB0258,https://pubmed.ncbi.nlm.nih.gov/37178549/,37178549,lytic polysaccharide monooxygenase 9A,Thermothelomyces thermophilus,https://www.uniprot.org/uniprotkb/A0A0H4K9X4/entry,A0A0H4K9X4,H,15,Y,50,No change
+DDB0259,https://pubmed.ncbi.nlm.nih.gov/37178549/,37178549,lytic polysaccharide monooxygenase 9A,Thermothelomyces thermophilus,https://www.uniprot.org/uniprotkb/A0A0H4K9X4/entry,A0A0H4K9X4,W,88,V,79,No change
+DDB0263,https://pubmed.ncbi.nlm.nih.gov/34311887/,34311887,D-allulose 3-epimerase,Halanaerobium congolense,https://www.ncbi.nlm.nih.gov/protein/WP_110301365.1,110301365.1,F,160,W,262,No change
+DDB0288,http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=SPFX202115002&uniplatform=OVERSEA&v=_f6t9sWdgG6K8yZDgMSpi30Gj5eDaH5x2sJ0FqG1RBZ4H_5gNRUkXSnAgGuhsPAi,10.13995/j.cnki.11-1802/ts.027052,Protein-glutamine gamma-glutamyltransferase,Streptomyces mobaraensis,https://www.uniprot.org/uniprotkb/P81453/entry,P81453,A,130,A,195,No change
+DDB0315,https://pubmed.ncbi.nlm.nih.gov/3304420/,3304420,Dihydrofolate reductase,Escherichia coli,https://www.uniprot.org/uniprotkb/P0ABQ4/entry,P0ABQ4,P,39,C,85,No change
+DDB0325,https://pubmed.ncbi.nlm.nih.gov/2504281/,2504281,Subtilisin BPN,Bacillus amyloliquefaciens,https://www.uniprot.org/uniprotkb/P00782/entry,P00782,V,26,A,232,No change
+DDB0338,https://pubmed.ncbi.nlm.nih.gov/31242622/,31242622,Alginate Lyase,Microbulbifer sp. Q7,https://www.ncbi.nlm.nih.gov/protein/WP_170891155.1,066959628.1,G,103,T,113,Less 1
+DDB0344,https://pubmed.ncbi.nlm.nih.gov/23936134/,23936134,Phytase,Citrobacter braakii,https://www.uniprot.org/uniprotkb/Q2VY22/entry,Q2VY22,G,52,A,99,No change
+DDB0345,https://pubmed.ncbi.nlm.nih.gov/23936134/,23936134,Phytase,Citrobacter braakii,https://www.uniprot.org/uniprotkb/Q2VY22/entry,Q2VY22,K,141,V,199,No change
+DDB0350,https://pubmed.ncbi.nlm.nih.gov/31652673/,31652673,Triacylglycerol lipase,Geobacillus thermocatenulatus,https://www.uniprot.org/uniprotkb/Q59260/entry,Q59260,A,191,F,206,No change
